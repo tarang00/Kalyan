@@ -54,6 +54,8 @@
 
   body {
     @apply bg-club-black text-white font-sans antialiased;
+    width: 100vw;
+    overflow-x: hidden;
   }
 }
 
