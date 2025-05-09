@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { useInView } from 'react-intersection-observer';
 import { cn } from '@/lib/utils';
@@ -90,7 +89,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-white">Email</h4>
-                  <p className="text-gray-300">accounts@lordofthedrinkskalyan.in</p>
+                  <p className="text-gray-300 break-all overflow-hidden">accounts@lordofthedrinkskalyan.in</p>
                 </div>
               </div>
 
